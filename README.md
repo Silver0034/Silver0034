@@ -1,6 +1,4 @@
-👋 Hello there, I'm
-
-# Jacob Lodes
+# 👋 Hello there, I'm Jacob Lodes
 
 ## 👤 About Me
 As the Web Manager for [Earl Enterprises](https://www.earlenterprise.com/) and [Virtual Dining Concepts](https://joinvdc.com/), the companies behind famous food entertainment brands like Buca di Beppo, Chicken Guy!, Planet Hollywood, MrBeast Burger, Pardon My Cheesesteak, FaZe Subs, & Lankybox Kitchen, I oversee the development and maintenance of all their websites. Recently, I personally built and launched a complete website overhaul for [Bertucci's Brick Oven Pizza & Pasta](https://www.bertuccis.com/), including writing a custom theme and custom plugins to handle all of the location and menu functionalities.
